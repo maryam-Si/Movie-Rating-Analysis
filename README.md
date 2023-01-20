@@ -1,6 +1,6 @@
 # Movie-Rating-Analysis
 
-## Analyzing the rating given by viewers of a movie helps many people decide whether or not to watch that movie.
+#### Analyzing the rating given by viewers of a movie helps many people decide whether or not to watch that movie.
 
 
 
